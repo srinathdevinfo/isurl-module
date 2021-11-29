@@ -38,4 +38,4 @@ console.log(validateUrl.isUrl('https://www.npmjs.com/')); //return true
 
 <h3>License</h3>
 
-This project is licensed under the MIT License
+This project is licensed under the ISC License
