@@ -1,0 +1,27 @@
+{
+    "name": "isurl-module",
+    "version": "0.10.0",
+    "description": "validate url from string",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/srinathdevinfo/isurl-module.git"
+    },
+    "keywords": [
+        "valid",
+        "url",
+        "check",
+        "url",
+        "url",
+        "validation"
+    ],
+    "author": "srinath madusanka",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/srinathdevinfo/isurl-module/issues"
+    },
+    "homepage": "https://github.com/srinathdevinfo/isurl-module#readme"
+}
